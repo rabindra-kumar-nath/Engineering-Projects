@@ -1,0 +1,17 @@
+{
+  "name": "engineering-projects",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "eslint \"AI-ML/AI_Experiments/**/*.{js,mjs,cjs,jsx,ts,tsx}\""
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.14.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^16.0.0",
+    "prettier": "^3.9.10",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.72.1"
+  }
+}
